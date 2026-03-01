@@ -15,6 +15,6 @@ Matplotlib
 Pandas
 
 You can install the dependencies via pip:
-'''Bash
-pip install tensorflow numpy matplotlib pandas
-'''
+
+    pip install tensorflow numpy matplotlib pandas
+
